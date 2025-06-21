@@ -7,7 +7,7 @@ name = "mistral_common"
 version = "1.6.2"
 description = "Mistral-common is a library of common utilities for Mistral AI."
 authors = [{name = "bam4d", email = "bam4d@mistral.ai"}]
-license = "Apache-2.0"
+license = { text = "Apache-2.0" }
 license-files = ["LICENSE"] 
 readme = "README.md"
 requires-python = ">=3.9.0,<3.14"
